@@ -1,0 +1,810 @@
+{
+  "products": [
+    {
+      "name": "مک بوک ایر 13 اینچ ظرفیت 8/256 گیگ مدل 2020",
+      "ENname": "Apple MacBook Air 13-inch 8/256GB 2020",
+      "categoryId": "5",
+      "price": "28899000",
+      "count": 13,
+      "color": "Gold",
+      "createdAt": "1651922276103",
+      "description": "ظرفیت:\r\n256GB SSD\r\n\r\nجنس بدنه:\r\nآلومینیوم\r\n\r\nابعاد:\r\n30.41x21.24x0.41 سانتی متر\r\n\r\nوزن:\r\n1.29 کیلوگرم\r\n\r\nپردازنده:\r\n1.1GHz dual-core Intel Core i3\r\n\r\nTurbo Boost up to 3.2GHz, with 4MB L3\r\n\r\nگرافیک:\r\nIntel Iris Plus Graphics\r\n\r\neGPUs - پشتیبانی از پردازنده گرافیکی اکسترنال\r\n\r\nرم:\r\n8GB - 3733MHz LPDDR4X\r\n\r\nنوع صفحه نمایش:\r\nRetina\r\n\r\nسایز صفحه نمایش:\r\n13.3 اینچ\r\n\r\nوضوح تصویر:\r\n1680x1050",
+      "thumbnail": "/files/d31f61005f2eac25ad2b5c9e9f3688c1,/files/e659d03ad571c0350a788b8202597ba8,",
+      "image": "/files/2e6b971cd4299b636f1941a64538e08a",
+      "id": 508,
+      "category": {
+        "name": "مک بوک ایر",
+        "id": "5"
+      }
+    },
+    {
+      "name": "آیمک 24 اینچ M1 ظرفیت 1TB/16GB/8-8 Core مدل 2021\r\n",
+      "ENname": "Apple iMac 24-inch M1 8-8Core/16GB/1TB 2021 - Silver",
+      "categoryId": "1",
+      "price": "75999000",
+      "count": "4",
+      "color": "New Silver\r\n",
+      "createdAt": "1651922276103",
+      "description": " ظرفیت 1TB/16GB/8-8 Core مدل 2021,\r\n 24 اینچ",
+      "thumbnail": ",,,/files/823f124cbab8803641043f41d8def631,/files/137964a9d8ba3830ad8b5ea8c96de2ba,",
+      "image": "/files/e29eb4ef0c7f5f05c246790f817a64b9",
+      "id": 602,
+      "category": "[object Object]"
+    },
+    {
+      "name": "آیپد پرو 11 اینچ M1 ظرفیت 128 گیگ",
+      "ENname": "Apple iPad Pro 11-inch 128GB Wi-Fi - Gray",
+      "categoryId": "7",
+      "price": "23399000",
+      "count": "22",
+      "color": "Space Gray,Silver",
+      "createdAt": "1651922276103",
+      "description": "ظرفیت:\r\n128GB\r\n\r\nجنس بدنه:\r\nآلومینیوم\r\n\r\nابعاد:\r\n247.6x178.5x5.9 میلی متر\r\n\r\nوزن:\r\n466 گرم\r\n\r\nپردازنده:\r\nApple M1\r\n\r\nنوع صفحه نمایش:\r\nRetina\r\n\r\nسایز صفحه نمایش:\r\n11 اینچ\r\n\r\nوضوح تصویر:\r\n2388x1668",
+      "thumbnail": "/files/b017cfa6f113e90561824c1d5462ea35,",
+      "image": "/files/5f67838c403b079541eac4df42ae4c7e",
+      "id": 701,
+      "category": "[object Object]"
+    },
+    {
+      "name": "مک بوک ایر 13 اینچ ظرفیت 8/256 گیگ مدل 2020",
+      "ENname": "Apple MacBook Air 13-inch 8/256GB 2020",
+      "image": "/files/c65e5d2de9d65ea01091f36319c6a2fb",
+      "thumbnail": "/files/e39a13b33386768a3be05e7975a05ae9",
+      "categoryId": "4",
+      "price": "4400000",
+      "count": "12",
+      "color": "مشکی",
+      "description": "<p>Apple MacBook Air 13-inch 8/256GB 2020</p>",
+      "createdAt": 1695406787579,
+      "id": 702
+    },
+    {
+      "name": "مک بوک ایر 13 اینچ ظرفیت 8/256 گیگ مدل 2020",
+      "ENname": "Apple MacBook Air 14-inch 8/256GB 2020",
+      "image": "/files/120697622a50925b7ce1875a9b23ff91",
+      "thumbnail": "/files/1f02f464059565bb3390d3cea09d721b",
+      "categoryId": "3",
+      "price": "5500000",
+      "count": "7",
+      "color": "gold",
+      "description": "<p>مک بوک ایر 13 اینچ ظرفیت 8/256 گیگ مدل 2020</p>",
+      "createdAt": 1695406843124,
+      "id": 703
+    },
+    {
+      "name": "مک بوک ایر 16 اینچ ظرفیت 8/256 گیگ مدل 2020",
+      "ENname": "Apple MacBook Air 13-inch 8/256GB 2020",
+      "image": "/files/3ee236a7e60ca11e6737620fc610e091",
+      "thumbnail": "/files/bdc837a35b78ac201f1c8601fabe5a68",
+      "categoryId": "2",
+      "price": "66055400",
+      "count": "2",
+      "color": "gold",
+      "description": "<p>مک بوک ایر 13 اینچ ظرفیت 8/256 گیگ مدل 2020&nbsp;</p><p>مک بوک ایر 13 اینچ ظرفیت 8/256 گیگ مدل 2020</p><p><i><strong>مک بوک ایر 13 اینچ ظرفیت 8/256 گیگ</strong></i> مدل 2020</p><p>مک بوک ایر 13 اینچ ظرفیت 8/256 گیگ مدل 2020</p><p>مک بوک ایر 13 اینچ ظرفیت 8/256 گیگ مدل 2020</p>",
+      "createdAt": 1695406917872,
+      "id": 704
+    },
+    {
+      "name": "Apple MacBook Air 13-inch 8/256GB 2020i",
+      "ENname": "imac",
+      "image": "/files/8ebcc05c4329da130a4ce7e2c9608709",
+      "thumbnail": ",/files/2b20ec65fa2054d91c65c4aade883d1a",
+      "categoryId": "1",
+      "price": "8800000",
+      "count": "7",
+      "color": "gold",
+      "description": "<p>Apple MacBook Air 13-inch 8/256GB 2020</p><p>Apple MacBook Air 13-inch 8/256GB 2020</p>",
+      "createdAt": "1695407008322",
+      "id": 705,
+      "category": "[object Object]"
+    },
+    {
+      "name": "Apple MacBook Air 13-inch 8/256GB 2020",
+      "ENname": "Apple MacBook Air 13-inch 8/256GB 2020",
+      "image": "/files/281aaf7e6b9321c3d6da265877b47c49",
+      "thumbnail": "/files/fb1dd12cdedbf7c311663b4443a48f60",
+      "categoryId": "6",
+      "price": "7500000",
+      "count": "7",
+      "color": "gold",
+      "description": "<p>Apple MacBook Air 13-inch 8/256GB 2020</p><p>Apple MacBook Air 13-inch 8/256GB 2020</p><p>Apple MacBook Air 13-inch 8/256GB 2020</p><p>Apple MacBook Air 13-inch 8/256GB 2020</p>",
+      "createdAt": 1695407064943,
+      "id": 706
+    }
+  ],
+  "categories": [
+    {
+      "name": "مک مینی",
+      "id": "1"
+    },
+    {
+      "name": "مک بوک پرو16",
+      "id": "2"
+    },
+    {
+      "name": "مک بوک پرو 14",
+      "id": "3"
+    },
+    {
+      "name": "مک بوک پرو13 ",
+      "id": "4"
+    },
+    {
+      "name": "مک بوک ایر",
+      "id": "5"
+    },
+    {
+      "name": "آیمک ",
+      "id": "6"
+    },
+    {
+      "name": "آیپد پرو",
+      "id": "7"
+    },
+    {
+      "name": "آیفون 13 پرو مکس",
+      "id": "8"
+    }
+  ],
+  "users": [
+    {
+      "name": "Amir hossein Mahdioun",
+      "username": "admin",
+      "password": "admin",
+      "role": "admin"
+    }
+  ],
+  "orders": [
+    {
+      "customerDetail": {
+        "username": "admin",
+        "firstName": "حسام",
+        "lastName": "باقری",
+        "phone": "09128888711",
+        "billingAddress": "کرج-خیابان اطلس-پلاک28",
+        "orderDate": 1643396897495,
+        "shippingAddress": "Tehran- azadi"
+      },
+      "id": 1001,
+      "location": "21111,2000,3333",
+      "orderNumber": "2122",
+      "purchaseTotal": "220000",
+      "orderStatus": 3,
+      "delivery": 1643396897495,
+      "deliveredAt": "-",
+      "orderItems": [
+        {
+          "name": "مک بوک ایر 13 اینچ ظرفیت 8/512 گیگ مدل 2020",
+          "price": 28899000,
+          "count": 1,
+          "ProductId": 507,
+          "orderCount": 4
+        },
+        {
+          "name": "آیپد پرو 12.9 اینچ M1 ظرفیت 1 ترابایت 5G",
+          "price": 36199000,
+          "count": 1,
+          "ProductId": 709,
+          "orderCount": 3
+        }
+      ],
+      "Products": [],
+      "status": 1
+    },
+    {
+      "customerDetail": {
+        "username": "admin",
+        "firstName": "آرام",
+        "lastName": "سماواتیان",
+        "phone": "09121234568",
+        "billingAddress": "خیابان باهنر -کوچه اطلس-پلاک3",
+        "orderDate": 1649996597495,
+        "shippingAddress": "Tehran- azadi"
+      },
+      "id": 1002,
+      "location": "21111,2000,3333",
+      "orderNumber": "2122",
+      "purchaseTotal": "220000",
+      "orderStatus": 3,
+      "delivery": 1643396897495,
+      "deliveredAt": "-",
+      "orderItems": [
+        {
+          "name": "مک بوک پرو 16 اینچ M1 Pro ظرفیت 1/16 ترابایت مدل 2021",
+          "price": 72999000,
+          "count": 1,
+          "ProductId": 202,
+          "orderCount": 4
+        }
+      ],
+      "Products": [],
+      "status": 1
+    },
+    {
+      "customerDetail": {
+        "username": "admin",
+        "firstName": "عطا",
+        "lastName": "صمیعی",
+        "phone": "09912362454",
+        "billingAddress": "اورومیه-خیابان فاطمی-پلاک 15",
+        "orderDate": 1644446897495,
+        "shippingAddress": "Tehran- azadi"
+      },
+      "id": 1003,
+      "location": "21111,2000,3333",
+      "orderNumber": "2122",
+      "purchaseTotal": "220000",
+      "orderStatus": 3,
+      "delivery": 1654747868124,
+      "deliveredAt": "-",
+      "orderItems": [
+        {
+          "name": "آیپد پرو 12.9 اینچ M1 ظرفیت 1 ترابایت 5G",
+          "price": 36199000,
+          "count": 1,
+          "ProductId": 709,
+          "orderCount": 1
+        },
+        {
+          "name": "مک بوک ایر 13 اینچ ظرفیت 8/512 گیگ مدل 2020",
+          "price": 28899000,
+          "count": 1,
+          "ProductId": 507,
+          "orderCount": 4
+        }
+      ],
+      "Products": []
+    },
+    {
+      "customerDetail": {
+        "username": "admin",
+        "firstName": "محسن",
+        "lastName": "کاظمی",
+        "phone": "0915584534",
+        "billingAddress": "میدان هفت تیر-کوچه سلامی-پلاک11",
+        "shippingAddress": "Tehran- azadi",
+        "orderDate": 1649996597495
+      },
+      "id": 1004,
+      "location": "21111,2000,3333",
+      "orderNumber": "2122",
+      "purchaseTotal": "220000",
+      "orderStatus": 3,
+      "delivery": 1643396897495,
+      "deliveredAt": "-",
+      "orderItems": [
+        {
+          "name": "مک مینی M1 ظرفیت 1TB/16 مدل 2020",
+          "price": 44999000,
+          "count": 1,
+          "ProductId": 101,
+          "orderCount": 2
+        },
+        {
+          "name": "آیپد پرو 12.9 اینچ M1 ظرفیت 1 ترابایت 5G",
+          "price": 36199000,
+          "count": 3,
+          "ProductId": 709,
+          "orderCount": 1
+        }
+      ]
+    },
+    {
+      "customerDetail": {
+        "username": "admin",
+        "firstName": "مهدیه",
+        "lastName": "طباطبائی",
+        "phone": "0918872551",
+        "billingAddress": "میدان شهدا-کوچه اشرفی-پلاک12",
+        "shippingAddress": "Tehran- azadi",
+        "orderDate": 1643396897495
+      },
+      "id": 1005,
+      "location": "21111,2000,3333",
+      "orderNumber": "2122",
+      "purchaseTotal": "220000",
+      "orderStatus": 1,
+      "delivery": 1643396897495,
+      "deliveredAt": 1654754038980,
+      "orderItems": [
+        {
+          "name": "آیپد پرو 12.9 اینچ M1 ظرفیت 1 ترابایت 5G",
+          "price": 36199000,
+          "count": 1,
+          "ProductId": 709,
+          "orderCount": 5
+        },
+        {
+          "name": "آیمک 24 اینچ M1 ظرفیت 512GB/8-8 Core مدل 2021",
+          "price": 55599000,
+          "count": 1,
+          "ProductId": 603,
+          "orderCount": 3
+        }
+      ]
+    },
+    {
+      "customerDetail": {
+        "username": "admin",
+        "firstName": "مرجان",
+        "lastName": "عبدلی",
+        "phone": "09123345287",
+        "billingAddress": "اصفهان-کوچه کامرانی-پلاک14",
+        "shippingAddress": "Tehran- azadi",
+        "orderDate": 1638125269564
+      },
+      "id": 1006,
+      "location": "21111,2000,3333",
+      "orderNumber": "2122",
+      "purchaseTotal": "220000",
+      "orderStatus": 1,
+      "delivery": 1654625225288,
+      "deliveredAt": 1654753930110,
+      "orderItems": [
+        {
+          "name": "آیمک 24 اینچ M1 ظرفیت 512GB/8-8 Core مدل 2021",
+          "price": 55599000,
+          "count": 2,
+          "ProductId": 603,
+          "orderCount": 4
+        }
+      ],
+      "Products": []
+    },
+    {
+      "customerDetail": {
+        "firstName": "مهسا",
+        "lastName": "جابری",
+        "billingAddress": "سعادت آباد",
+        "phone": "1234567890",
+        "date": "",
+        "orderDate": 1654797308000
+      },
+      "orderStatus": 1,
+      "deliveredAt": 1654754068542,
+      "orderItems": [
+        {
+          "name": "مک بوک پرو 16 اینچ M1 Pro ظرفیت 512/16 گیگابایت مدل 2021",
+          "ENname": "Apple MacBook Pro 16-inch M1 Pro 16/512GB 2021 - Gray\n",
+          "categoryId": "2",
+          "price": 64999000,
+          "count": 5,
+          "color": "Gray",
+          "createdAt": 1651922276103,
+          "description": "ظرفیت:\n512GB SSD\n\nجنس بدنه:\nآلومینیوم\n\nابعاد:\n35.57x24.81x1.68 سانتی متر\n\nوزن:\n2.2 کیلوگرم\n\nپردازنده:\nApple M1 Pro\n\n10‑core CPU\n\nگرافیک:\nApple M1 Pro\n\n16‑core GPU\n\nرم:\n16GB unified\n\nنوع صفحه نمایش:\nRetina\n\nسایز صفحه نمایش:\n16.2 اینچ\n\nوضوح تصویر:\n3456x2234\n\nLiquid Retina XDR\n\nProMotion 120Hz",
+          "thumbnail": "/files/f81dccc83f9dcb4dc531e6e640cc7bdd",
+          "image": "/files/a796c349f42749720da29434c2040107",
+          "id": 204,
+          "category": {
+            "name": "مک بوک پرو16",
+            "id": "2"
+          },
+          "orderCount": 1
+        }
+      ],
+      "createdAt": 1654624540481,
+      "id": 1008
+    },
+    {
+      "customerDetail": {
+        "firstName": "طاها",
+        "lastName": "پناهی",
+        "billingAddress": "شهر کرد خیابان صالحی",
+        "phone": "09126655881",
+        "date": "",
+        "orderDate": 1655239348000
+      },
+      "orderStatus": 1,
+      "deliveredAt": 1654721029369,
+      "orderItems": [
+        {
+          "name": "مک بوک پرو 16 اینچ M1 Pro ظرفیت 1/16 ترابایت مدل 2021",
+          "ENname": "Apple MacBook Pro 16-inch M1 Pro 16/1TB 2021 - Gray \n",
+          "categoryId": "2",
+          "price": 72999000,
+          "count": 43,
+          "color": "Silver,Gray",
+          "createdAt": 1651921987911,
+          "description": "ظرفیت:\n1TB SSD\n\nجنس بدنه:\nآلومینیوم\n\nابعاد:\n35.57x24.81x1.68 سانتی متر\n\nوزن:\n2.2 کیلوگرم\n\nپردازنده:\nApple M1 Pro\n\n10‑core CPU\n\nگرافیک:\nApple M1 Pro\n\n16‑core GPU\n\nرم:\n16GB unified\n\nنوع صفحه نمایش:\nRetina\n\nسایز صفحه نمایش:\n16.2 اینچ\n\nوضوح تصویر:\n3456x2234\n\nLiquid Retina XDR\n\nProMotion 120Hz",
+          "thumbnail": "/files/f81dccc83f9dcb4dc531e6e640cc7bdd",
+          "image": "/files/6976e84418e7f34f873afa5a73148b67",
+          "id": 202,
+          "category": {
+            "name": "مک بوک پرو16",
+            "id": "2"
+          },
+          "orderCount": 1
+        },
+        {
+          "name": "آیمک 24 اینچ M1 ظرفیت 512GB/8-8 Core مدل 2021",
+          "ENname": "Apple iMac 24-inch M1 8-8Core/16GB/512GB 2021- Purple",
+          "categoryId": "6",
+          "price": 69499000,
+          "count": 22,
+          "color": "Purple Light Purple",
+          "createdAt": 1651949271500,
+          "description": "ظرفیت 512GB/8-8 Core مدل 2021,\n 24 اینچ",
+          "thumbnail": "/files/f81dccc83f9dcb4dc531e6e640cc7bdd",
+          "image": "/files/e0e4c760821985d20da01bf1d2b7bf46",
+          "id": 607,
+          "category": {
+            "name": "آیمک ",
+            "id": "6"
+          },
+          "orderCount": 3
+        },
+        {
+          "name": "مک مینی M1 ظرفیت 256/16 گیگ مدل 2020",
+          "ENname": "Apple Mac Mini M1 16/256GB 2020 - CTO",
+          "image": "/files/29f59bfbc6ea6f2543502078bc0a78a4",
+          "thumbnail": "/files/3ff824b5bd2c8f60806f1becd20f761d,/files/5ce4278eb0406bc5049f0c4affc2b968,/files/baec55763012e000b3e30f728bd90380,/files/9844f2f8263f1c4bbd0afb8b9405ad3b",
+          "categoryId": "1",
+          "price": "36599000",
+          "count": "22",
+          "color": "silver",
+          "description": "<p>&nbsp;<br>مک مینی اولین کامپیوتر اپل بود که در آن از تراشه M1 استفاده شده بود و طی پروژه اپل سیلیکون، تراشه‌های اختصاصی اپل جایگزین تراشه اینتل شد. مک مینی با تراشه M1 و سیستم عامل macOS Big Sur 11 در سال 2020 عرضه شده است.<br>در این مدل از کارت گرافیکی استفاده نشده و<strong> حداکثر ظرفیت رم موجود در آن 16 گیگابایت است</strong> که امکان ارتقا رم را غیر ممکن کرده است.</p>",
+          "createdAt": 1654718288218,
+          "id": 708,
+          "category": {
+            "name": "مک مینی",
+            "id": "1"
+          },
+          "orderCount": 1
+        },
+        {
+          "name": "مک بوک پرو 16 اینچ M1 Max ظرفیت 1/32 ترابایت مدل 2021",
+          "ENname": "Apple MacBook Pro 16-inch M1 Max 32/1TB 2021 - Gray ",
+          "categoryId": "2",
+          "price": 131999000,
+          "count": 38,
+          "color": "Silver,Gray",
+          "createdAt": 1651922276103,
+          "description": "ظرفیت:\n1TB SSD\n\nجنس بدنه:\nآلومینیوم\n\nابعاد:\n35.57x24.81x1.68 سانتی متر\n\nوزن:\n2.2 کیلوگرم\n\nپردازنده:\nApple M1 Max\n\n10‑core CPU\n\nگرافیک:\nApple M1 Pro\n\n32‑core GPU\n\nرم:\n32GB unified\n\nنوع صفحه نمایش:\nRetina\n\nسایز صفحه نمایش:\n16.2 اینچ\n\nوضوح تصویر:\n3456x2234\n\nLiquid Retina XDR\n\nProMotion 120Hz",
+          "thumbnail": "/files/f81dccc83f9dcb4dc531e6e640cc7bdd",
+          "image": "/files/ce3f5ed27338c1c09b21b5fb3c6e6896",
+          "id": 209,
+          "category": {
+            "name": "مک بوک پرو16",
+            "id": "2"
+          },
+          "orderCount": 1
+        }
+      ],
+      "createdAt": 1654721003976,
+      "id": 1009
+    },
+    {
+      "customerDetail": {
+        "firstName": "ماندانا",
+        "lastName": "کبیری",
+        "billingAddress": "شهر کرد",
+        "phone": "09135567954",
+        "date": "",
+        "orderDate": 1655024463501
+      },
+      "orderStatus": 3,
+      "deliveredAt": "-",
+      "orderItems": [
+        {
+          "name": "آیفون 13 پرو مکس ظرفیت 256 گیگ",
+          "ENname": "Apple iPhone 13 Pro Max 256GB - Gold / ZAA / 18 Month / Active",
+          "image": "/files/540b851b8156431d15842c372a1e80f5",
+          "thumbnail": "/files/187782fe6851158f73264164d12b315e,/files/f8c2667deef437c5ed2ae0ad975ad55d,/files/eb7c1070262b0c9a7d9e8e021d1313ae,/files/c81dface103d95ddfa2222d48add06e5",
+          "categoryId": "8",
+          "price": "58199000",
+          "count": "7",
+          "color": "Gold",
+          "description": "<p>مهم‌ترین مشخصه این تلفن‌های هوشمند افزایش برآمدگی دوربین است که به دلیل بهبود سیستم استبلایز سنسور شیفت بوده است. اپل در طراحی این تلفن هوشمند بزرگ‌ترین لنزهای مورد استفاده در دوربین را تعبیه کرده است. آیفون ۱۳ پرو مکس به عنوان پرچمدار تلفن‌های هوشمند اپل در سال ۲۰۲۱ میلادی مجهز <strong>به قوی‌ترین</strong> دوربین دنیا برای فیلم‌برداری سینمایی و سریع‌ترین پردازنده تلفن‌های هوشمند شده است.&nbsp;</p>",
+          "createdAt": "1654763313572",
+          "id": 710,
+          "category": {
+            "name": "آیفون 13 پرو مکس",
+            "id": "8"
+          },
+          "orderCount": 7
+        }
+      ],
+      "createdAt": 1654764450317,
+      "id": 1010
+    },
+    {
+      "customerDetail": {
+        "firstName": "پدرام",
+        "lastName": "سعادت زاده",
+        "billingAddress": "میدان شهدا",
+        "phone": "09128898467",
+        "date": "",
+        "orderDate": 1655197331000
+      },
+      "orderStatus": 1,
+      "deliveredAt": 1654765489191,
+      "orderItems": [
+        {
+          "name": "مک بوک پرو 16 اینچ M1 Max ظرفیت 1/32 ترابایت مدل 2021",
+          "ENname": "Apple MacBook Pro 16-inch M1 Max 32/1TB 2021 - Gray ",
+          "categoryId": "2",
+          "price": "131999000",
+          "count": 30,
+          "color": "Silver,Gray",
+          "createdAt": "1651922276103",
+          "description": "ظرفیت:\r\n1TB SSD\r\n\r\nجنس بدنه:\r\nآلومینیوم\r\n\r\nابعاد:\r\n35.57x24.81x1.68 سانتی متر\r\n\r\nوزن:\r\n2.2 کیلوگرم\r\n\r\nپردازنده:\r\nApple M1 Max\r\n\r\n10‑core CPU\r\n\r\nگرافیک:\r\nApple M1 Pro\r\n\r\n32‑core GPU\r\n\r\nرم:\r\n32GB unified\r\n\r\nنوع صفحه نمایش:\r\nRetina\r\n\r\nسایز صفحه نمایش:\r\n16.2 اینچ\r\n\r\nوضوح تصویر:\r\n3456x2234\r\n\r\nLiquid Retina XDR\r\n\r\nProMotion 120Hz",
+          "thumbnail": "/files/35ef29df8e61bcedbc313f25e96e7066,/files/224232e9fd78cebdc3046c1b8fc07a04,/files/fed5969c94b50c7097bb6188b0ed2ba0,/files/4228ef2dcc3e794f8262563a5f7d04ec",
+          "image": "/files/ce3f5ed27338c1c09b21b5fb3c6e6896",
+          "id": 201,
+          "category": {
+            "name": "مک بوک پرو16",
+            "id": "2"
+          },
+          "orderCount": 1
+        }
+      ],
+      "createdAt": 1654765461772,
+      "id": 1011
+    },
+    {
+      "customerDetail": {
+        "firstName": "اکبر",
+        "lastName": "اکبری",
+        "billingAddress": "خیابان سعادت آباد",
+        "phone": "09124355911",
+        "date": "",
+        "orderDate": 1655289288000
+      },
+      "orderStatus": 1,
+      "deliveredAt": 1654771585206,
+      "orderItems": [
+        {
+          "name": "مک مینی M1 ظرفیت 512/16 گیگ مدل 2020",
+          "ENname": "Apple Mac Mini M1 16/512GB 2020 - CTO",
+          "image": "/files/11422e642645e5ed002f14a33f5f2678",
+          "thumbnail": "/files/fecb25fa34d07e5ef18d4c7d9db7136c,/files/c7689790d188bf0a04c38073e2d3445d,/files/1fde4d0e2f1504f00f45e4606d41b031,/files/3d571f383ca7a4acd3f96b3a89de365c",
+          "categoryId": "1",
+          "price": "41599000",
+          "count": "20",
+          "color": "Silver",
+          "description": "<p><br>مک مینی اولین کامپیوتر اپل بود که در آن از تراشه M1 استفاده شده بود و طی پروژه اپل سیلیکون، تراشه‌های اختصاصی اپل جایگزین تراشه اینتل شد. مک مینی با تراشه M1 و سیستم عامل macOS Big Sur 11 در سال 2020 عرضه شده است.<br>در این مدل از کارت گرافیکی استفاده نشده و حداکثر ظرفیت رم موجود در آن <strong>16 گیگابایت</strong> است که امکان ارتقا رم را غیر ممکن کرده است.</p>",
+          "createdAt": 1654718128243,
+          "id": 707,
+          "category": {
+            "name": "مک مینی",
+            "id": "1"
+          },
+          "orderCount": 5
+        },
+        {
+          "name": "مک بوک پرو 16 اینچ M1 Max ظرفیت 1/32 ترابایت مدل 2021",
+          "ENname": "Apple MacBook Pro 16-inch M1 Max 32/1TB 2021 - Gray ",
+          "categoryId": "2",
+          "price": 72999000,
+          "count": 29,
+          "color": "Silver,Gray",
+          "createdAt": "1651922276103",
+          "description": "ظرفیت:\r\n1TB SSD\r\n\r\nجنس بدنه:\r\nآلومینیوم\r\n\r\nابعاد:\r\n35.57x24.81x1.68 سانتی متر\r\n\r\nوزن:\r\n2.2 کیلوگرم\r\n\r\nپردازنده:\r\nApple M1 Max\r\n\r\n10‑core CPU\r\n\r\nگرافیک:\r\nApple M1 Pro\r\n\r\n32‑core GPU\r\n\r\nرم:\r\n32GB unified\r\n\r\nنوع صفحه نمایش:\r\nRetina\r\n\r\nسایز صفحه نمایش:\r\n16.2 اینچ\r\n\r\nوضوح تصویر:\r\n3456x2234\r\n\r\nLiquid Retina XDR\r\n\r\nProMotion 120Hz",
+          "thumbnail": "/files/35ef29df8e61bcedbc313f25e96e7066,/files/224232e9fd78cebdc3046c1b8fc07a04,/files/fed5969c94b50c7097bb6188b0ed2ba0,/files/4228ef2dcc3e794f8262563a5f7d04ec",
+          "image": "/files/ce3f5ed27338c1c09b21b5fb3c6e6896",
+          "id": 201,
+          "category": {
+            "name": "مک بوک پرو16",
+            "id": "2"
+          },
+          "orderCount": 12
+        }
+      ],
+      "createdAt": 1654770994365,
+      "id": 1012
+    },
+    {
+      "customerDetail": {
+        "firstName": "نرگس",
+        "lastName": " حاج ابوالحسن",
+        "billingAddress": "tehran",
+        "phone": "09124335911",
+        "date": "",
+        "orderDate": 1696443036000
+      },
+      "orderStatus": 1,
+      "deliveredAt": 1695406313033,
+      "orderItems": [
+        {
+          "name": "مک بوک ایر 13 اینچ ظرفیت 8/256 گیگ مدل 2020",
+          "ENname": "Apple MacBook Air 13-inch 8/256GB 2020",
+          "categoryId": "5",
+          "price": "28899000",
+          "count": "20",
+          "color": "Gold",
+          "createdAt": "1651922276103",
+          "description": "ظرفیت:\r\n256GB SSD\r\n\r\nجنس بدنه:\r\nآلومینیوم\r\n\r\nابعاد:\r\n30.41x21.24x0.41 سانتی متر\r\n\r\nوزن:\r\n1.29 کیلوگرم\r\n\r\nپردازنده:\r\n1.1GHz dual-core Intel Core i3\r\n\r\nTurbo Boost up to 3.2GHz, with 4MB L3\r\n\r\nگرافیک:\r\nIntel Iris Plus Graphics\r\n\r\neGPUs - پشتیبانی از پردازنده گرافیکی اکسترنال\r\n\r\nرم:\r\n8GB - 3733MHz LPDDR4X\r\n\r\nنوع صفحه نمایش:\r\nRetina\r\n\r\nسایز صفحه نمایش:\r\n13.3 اینچ\r\n\r\nوضوح تصویر:\r\n1680x1050",
+          "thumbnail": "/files/d31f61005f2eac25ad2b5c9e9f3688c1,/files/e659d03ad571c0350a788b8202597ba8,",
+          "image": "/files/2e6b971cd4299b636f1941a64538e08a",
+          "id": 508,
+          "category": {
+            "name": "مک بوک ایر",
+            "id": "5"
+          },
+          "orderCount": 7
+        }
+      ],
+      "createdAt": 1695406274487,
+      "id": 1013
+    },
+    {
+      "customerDetail": {
+        "firstName": "نرگس",
+        "lastName": " حاج ابوالحسن",
+        "billingAddress": "tehran",
+        "phone": "09124335911",
+        "date": "",
+        "orderDate": 1696443036000
+      },
+      "orderStatus": 3,
+      "deliveredAt": "-",
+      "orderItems": [],
+      "createdAt": 1695406286883,
+      "id": 1014
+    },
+    {
+      "customerDetail": {
+        "firstName": "نرگس",
+        "lastName": " حاج ابوالحسن",
+        "billingAddress": "tehran",
+        "phone": "09124335911",
+        "date": "",
+        "orderDate": 1696443036000
+      },
+      "orderStatus": 3,
+      "deliveredAt": "-",
+      "orderItems": [],
+      "createdAt": 1695406286909,
+      "id": 1015
+    }
+  ],
+  "orderStatus": [
+    {
+      "id": 1,
+      "status": "Completed"
+    },
+    {
+      "id": 2,
+      "status": "Canceled"
+    },
+    {
+      "id": 3,
+      "status": "Processing"
+    },
+    {
+      "id": 4,
+      "status": "Failed"
+    },
+    {
+      "id": 5,
+      "status": "onHold"
+    },
+    {
+      "id": 6,
+      "status": "Delivered"
+    }
+  ],
+  "whoami": {
+    "name": "Narges Hajabolhasan",
+    "username": "admin",
+    "password": "admin",
+    "role": "admin"
+  },
+  "protection": {
+    "products.get": false,
+    "products": "admin",
+    "products.post": false,
+    "products.put": false,
+    "products.delete": false,
+    "orders.post": false,
+    "upload": false,
+    "orders": "admin",
+    "orders.put": false,
+    "users": "admin",
+    "protection": "admin"
+  },
+  "exam": [
+    {
+      "customerDetail": {
+        "name": "Narges",
+        "lastName": "abolhasan",
+        "address": "fdgd",
+        "phone": "1234567890",
+        "resiveDate": "2022-06-04T09:59:30.479Z"
+      },
+      "orderStatusId": 3,
+      "deliveredAt": "",
+      "orderItems": [
+        {
+          "name": "مک بوک پرو 16 اینچ M1 Pro ظرفیت 1/16 ترابایت مدل 2021",
+          "ENname": "Apple MacBook Pro 16-inch M1 Pro 16/1TB 2021 - Gray \n",
+          "categoryId": "2",
+          "price": 72999000,
+          "count": 43,
+          "color": "Silver,Gray",
+          "createdAt": 1651921987911,
+          "description": "ظرفیت:\n1TB SSD\n\nجنس بدنه:\nآلومینیوم\n\nابعاد:\n35.57x24.81x1.68 سانتی متر\n\nوزن:\n2.2 کیلوگرم\n\nپردازنده:\nApple M1 Pro\n\n10‑core CPU\n\nگرافیک:\nApple M1 Pro\n\n16‑core GPU\n\nرم:\n16GB unified\n\nنوع صفحه نمایش:\nRetina\n\nسایز صفحه نمایش:\n16.2 اینچ\n\nوضوح تصویر:\n3456x2234\n\nLiquid Retina XDR\n\nProMotion 120Hz",
+          "thumbnail": "/files/f81dccc83f9dcb4dc531e6e640cc7bdd",
+          "image": "/files/6976e84418e7f34f873afa5a73148b67",
+          "id": 202,
+          "category": {
+            "name": "مک بوک پرو16",
+            "id": "2"
+          },
+          "orderCount": 1
+        },
+        {
+          "name": "آیپد پرو 12.9 اینچ M1 ظرفیت 128 گیگ",
+          "ENname": "Apple iPad Pro M1 12.9-inch 128GB Wi-Fi - Silver",
+          "categoryId": "7",
+          "price": "27699000",
+          "count": "5",
+          "color": "Space Gray,Silver",
+          "createdAt": "1651950339808",
+          "description": "ظرفیت:\r\n2TB\r\n\r\nجنس بدنه:\r\nآلومینیوم\r\n\r\nابعاد:\r\n247.6x178.5x5.9 میلی متر\r\n\r\nوزن:\r\n466 گرم\r\n\r\nپردازنده:\r\nApple M1\r\n\r\nنوع صفحه نمایش:\r\nRetina\r\n\r\nسایز صفحه نمایش:\r\n11 اینچ\r\n\r\nوضوح تصویر:\r\n2388x1668",
+          "thumbnail": ",/files/7823075ccf1fbec51d9fbf7ab3724e8b,/files/70cfa16783272257ac0b393727663d89,/files/2ef175e54175837e77189be1d890a2a0,/files/e9fb37686e1de87538a1b2478ecedf56",
+          "image": "/files/320fff7452ae27e887645c0642d998c0",
+          "id": 706,
+          "category": {
+            "name": "آیپد پرو",
+            "id": "7"
+          },
+          "orderCount": 2
+        }
+      ],
+      "createdAt": 1654077715748,
+      "id": 2003
+    },
+    {
+      "customerDetail": {
+        "name": "Narges",
+        "lastName": "abolhasan",
+        "address": "fdgd",
+        "phone": "1234567890",
+        "resiveDate": "2022-06-04T09:59:30.479Z"
+      },
+      "orderStatusId": 3,
+      "deliveredAt": "",
+      "orderItems": [
+        {
+          "name": "مک بوک پرو 16 اینچ M1 Pro ظرفیت 1/16 ترابایت مدل 2021",
+          "ENname": "Apple MacBook Pro 16-inch M1 Pro 16/1TB 2021 - Gray \n",
+          "categoryId": "2",
+          "price": 72999000,
+          "count": 43,
+          "color": "Silver,Gray",
+          "createdAt": 1651921987911,
+          "description": "ظرفیت:\n1TB SSD\n\nجنس بدنه:\nآلومینیوم\n\nابعاد:\n35.57x24.81x1.68 سانتی متر\n\nوزن:\n2.2 کیلوگرم\n\nپردازنده:\nApple M1 Pro\n\n10‑core CPU\n\nگرافیک:\nApple M1 Pro\n\n16‑core GPU\n\nرم:\n16GB unified\n\nنوع صفحه نمایش:\nRetina\n\nسایز صفحه نمایش:\n16.2 اینچ\n\nوضوح تصویر:\n3456x2234\n\nLiquid Retina XDR\n\nProMotion 120Hz",
+          "thumbnail": "/files/f81dccc83f9dcb4dc531e6e640cc7bdd",
+          "image": "/files/6976e84418e7f34f873afa5a73148b67",
+          "id": 202,
+          "category": {
+            "name": "مک بوک پرو16",
+            "id": "2"
+          },
+          "orderCount": 1
+        },
+        {
+          "name": "آیپد پرو 12.9 اینچ M1 ظرفیت 128 گیگ",
+          "ENname": "Apple iPad Pro M1 12.9-inch 128GB Wi-Fi - Silver",
+          "categoryId": "7",
+          "price": "27699000",
+          "count": "5",
+          "color": "Space Gray,Silver",
+          "createdAt": "1651950339808",
+          "description": "ظرفیت:\r\n2TB\r\n\r\nجنس بدنه:\r\nآلومینیوم\r\n\r\nابعاد:\r\n247.6x178.5x5.9 میلی متر\r\n\r\nوزن:\r\n466 گرم\r\n\r\nپردازنده:\r\nApple M1\r\n\r\nنوع صفحه نمایش:\r\nRetina\r\n\r\nسایز صفحه نمایش:\r\n11 اینچ\r\n\r\nوضوح تصویر:\r\n2388x1668",
+          "thumbnail": ",/files/7823075ccf1fbec51d9fbf7ab3724e8b,/files/70cfa16783272257ac0b393727663d89,/files/2ef175e54175837e77189be1d890a2a0,/files/e9fb37686e1de87538a1b2478ecedf56",
+          "image": "/files/320fff7452ae27e887645c0642d998c0",
+          "id": 706,
+          "category": {
+            "name": "آیپد پرو",
+            "id": "7"
+          },
+          "orderCount": 2
+        }
+      ],
+      "createdAt": 1654077715763,
+      "id": 2004
+    }
+  ]
+}
